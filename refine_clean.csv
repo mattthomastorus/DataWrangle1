@@ -1,0 +1,26 @@
+"","company","Product.code...number","product_code","product_number","full_address","address","city","country","name","codedbrandname","product_cat","company_akzo","company_philips","company_unilever","company_van houten","product_laptop","product_smartphone","product_tablet","product_tv"
+"1","Phillips","p-5","p","5","Groningensingel 147, arnhem, the netherlands","Groningensingel 147","arnhem","the netherlands","dhr p. jansen","philips","Smartphone",0,1,0,0,0,1,0,0
+"2","phillips","p-43","p","43","Groningensingel 148, arnhem, the netherlands","Groningensingel 148","arnhem","the netherlands","dhr p. hansen","philips","Smartphone",0,1,0,0,0,1,0,0
+"3","philips","x-3","x","3","Groningensingel 149, arnhem, the netherlands","Groningensingel 149","arnhem","the netherlands","dhr j. Gansen","philips","Laptop",0,1,0,0,1,0,0,0
+"4","phllips","x-34","x","34","Groningensingel 150, arnhem, the netherlands","Groningensingel 150","arnhem","the netherlands","dhr p. mansen","philips","Laptop",0,1,0,0,1,0,0,0
+"5","phillps","x-12","x","12","Groningensingel 151, arnhem, the netherlands","Groningensingel 151","arnhem","the netherlands","dhr p. fransen","philips","Laptop",0,1,0,0,1,0,0,0
+"6","phillipS","p-23","p","23","Groningensingel 152, arnhem, the netherlands","Groningensingel 152","arnhem","the netherlands","dhr p. franssen","philips","Smartphone",0,1,0,0,0,1,0,0
+"7","akzo","v-43","v","43","Leeuwardenweg 178, arnhem, the netherlands","Leeuwardenweg 178","arnhem","the netherlands","dhr p. bansen","akzo","TV",1,0,0,0,0,0,0,1
+"8","Akzo","v-12","v","12","Leeuwardenweg 179, arnhem, the netherlands","Leeuwardenweg 179","arnhem","the netherlands","dhr p. vansen","akzo","TV",1,0,0,0,0,0,0,1
+"9","AKZO","x-5","x","5","Leeuwardenweg 180, arnhem, the netherlands","Leeuwardenweg 180","arnhem","the netherlands","dhr p. bransen","akzo","Laptop",1,0,0,0,1,0,0,0
+"10","akz0","p-34","p","34","Leeuwardenweg 181, arnhem, the netherlands","Leeuwardenweg 181","arnhem","the netherlands","dhr p. janssen","akzo","Smartphone",1,0,0,0,0,1,0,0
+"11","ak zo","q-5","q","5","Leeuwardenweg 182, arnhem, the netherlands","Leeuwardenweg 182","arnhem","the netherlands","mevr l.  rokken","akzo","Tablet",1,0,0,0,0,0,1,0
+"12","akzo","q-9","q","9","Leeuwardenweg 183, arnhem, the netherlands","Leeuwardenweg 183","arnhem","the netherlands","mevr l.  lokken","akzo","Tablet",1,0,0,0,0,0,1,0
+"13","akzo","x-8","x","8","Leeuwardenweg 184, arnhem, the netherlands","Leeuwardenweg 184","arnhem","the netherlands","mevr l.  mokken","akzo","Laptop",1,0,0,0,1,0,0,0
+"14","phillips","p-56","p","56","Delfzijlstraat 54, arnhem, the netherlands","Delfzijlstraat 54","arnhem","the netherlands","mevr l.  mokken","philips","Smartphone",0,1,0,0,0,1,0,0
+"15","fillips","v-67","v","67","Delfzijlstraat 55, arnhem, the netherlands","Delfzijlstraat 55","arnhem","the netherlands","mevr l.  mokken","philips","TV",0,1,0,0,0,0,0,1
+"16","phlips","v-21","v","21","Delfzijlstraat 56, arnhem, the netherlands","Delfzijlstraat 56","arnhem","the netherlands","mevr l.  mokken","philips","TV",0,1,0,0,0,0,0,1
+"17","Van Houten","x-45","x","45","Delfzijlstraat 57, arnhem, the netherlands","Delfzijlstraat 57","arnhem","the netherlands","mevr l.  sokken","van houten","Laptop",0,0,0,1,1,0,0,0
+"18","van Houten","v-56","v","56","Delfzijlstraat 58, arnhem, the netherlands","Delfzijlstraat 58","arnhem","the netherlands","mevr l.  wokken","van houten","TV",0,0,0,1,0,0,0,1
+"19","van houten","v-65","v","65","Delfzijlstraat 59, arnhem, the netherlands","Delfzijlstraat 59","arnhem","the netherlands","mevr l.  kokken","van houten","TV",0,0,0,1,0,0,0,1
+"20","van houten","x-21","x","21","Delfzijlstraat 60, arnhem, the netherlands","Delfzijlstraat 60","arnhem","the netherlands","mevr l.  Bokken","van houten","Laptop",0,0,0,1,1,0,0,0
+"21","Van Houten","p-23","p","23","Delfzijlstraat 61, arnhem, the netherlands","Delfzijlstraat 61","arnhem","the netherlands","mevr l.  dokken","van houten","Smartphone",0,0,0,1,0,1,0,0
+"22","unilver","x-3","x","3","Jourestraat 23, arnhem, the netherlands","Jourestraat 23","arnhem","the netherlands","mevr l.  gokken","unilever","Laptop",0,0,1,0,1,0,0,0
+"23","unilever","q-4","q","4","Jourestraat 24, arnhem, the netherlands","Jourestraat 24","arnhem","the netherlands","mevr l.  stokken","unilever","Tablet",0,0,1,0,0,0,1,0
+"24","Unilever","q-6","q","6","Jourestraat 25, arnhem, the netherlands","Jourestraat 25","arnhem","the netherlands","mevr l.  rokken","unilever","Tablet",0,0,1,0,0,0,1,0
+"25","unilever","q-8","q","8","Jourestraat 26, arnhem, the netherlands","Jourestraat 26","arnhem","the netherlands","mevr l.  rokken","unilever","Tablet",0,0,1,0,0,0,1,0
